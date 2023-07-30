@@ -1,0 +1,2 @@
+# Hotel
+Hotel module repository
